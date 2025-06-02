@@ -71,11 +71,11 @@ sql-ecommerce-portfolio/
 ├── README.md
 ├── schema_diagram.png (optional ERD)
 ├── data/
-│   ├── kenya_customers.csv
-│   ├── kenya_products.csv
-│   ├── kenya_orders.csv
-│   ├── kenya_order_items.csv
-│   └── kenya_suppliers.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   └── suppliers.csv
 ├── queries/
 │   ├── customer_insights.sql
 │   ├── product_performance.sql
