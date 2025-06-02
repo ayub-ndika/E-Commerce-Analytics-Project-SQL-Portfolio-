@@ -1,8 +1,6 @@
 # E-Commerce-Analytics-Project-SQL-Portfolio-
 This project analyzes a simulated Kenyan e-commerce business database using SQL. The dataset contains customers, orders, products, suppliers, and order details. It showcases advanced SQL skills in data querying, transformation, and insights generation.
-# 📅 Kenyan E-Commerce Analytics Project (SQL Portfolio)
 
-## 🔖 Project Overview
 
 This SQL project showcases analytical insights derived from a fictional Kenyan-based e-commerce business. Using raw data stored in MySQL, the project explores key business questions around customer behavior, sales performance, product demand, and supplier efficiency.
 
