@@ -1,0 +1,66 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,130799
+102,Smartphone,Electronics,6168
+103,Tablet,Electronics,73733
+104,Monitor,Electronics,82482
+105,Keyboard,Electronics,106633
+106,Mouse,Electronics,11251
+107,Headphones,Electronics,46718
+108,Webcam,Electronics,127149
+109,Printer,Electronics,7852
+110,Speaker,Electronics,89335
+111,Power Bank,Electronics,97993
+112,USB Cable,Electronics,29427
+113,Charger,Electronics,102448
+114,Projector,Electronics,29993
+115,Router,Electronics,32207
+116,Smartwatch,Electronics,138868
+117,Flash Drive,Electronics,36342
+118,External HDD,Electronics,13761
+119,Graphics Card,Electronics,77209
+120,RAM,Electronics,96485
+121,Motherboard,Electronics,107116
+122,Processor,Electronics,67673
+123,Cooling Fan,Electronics,32281
+124,Gaming Mouse,Electronics,14152
+125,Gaming Keyboard,Electronics,5603
+126,TV,Electronics,26000
+127,Camera,Electronics,100836
+128,Tripod,Electronics,113999
+129,Microphone,Electronics,49893
+130,Drone,Electronics,47906
+131,Phone Case,Electronics,63559
+132,Screen Protector,Electronics,147526
+133,Wireless Charger,Electronics,83222
+134,Fitness Tracker,Electronics,12856
+135,VR Headset,Electronics,128628
+136,Modem,Electronics,2687
+137,Smart Bulb,Electronics,77743
+138,Ink Cartridge,Electronics,35598
+139,Stylus Pen,Electronics,135178
+140,Bluetooth Receiver,Electronics,58120
+141,Laptop Bag,Electronics,126770
+142,Gaming Chair,Electronics,14887
+143,WiFi Repeater,Electronics,69963
+144,Smart Lock,Electronics,134163
+145,Solar Panel,Electronics,92183
+146,Thermostat,Electronics,62561
+147,Security Camera,Electronics,81757
+148,Ethernet Cable,Electronics,62253
+149,SIM Card,Electronics,85274
+150,Laptop Stand,Electronics,142659
+151,Surge Protector,Electronics,23908
+152,Smart Plug,Electronics,124616
+153,HDMI Cable,Electronics,131708
+154,Desktop,Electronics,17913
+155,Server,Electronics,114150
+156,POS Machine,Electronics,60000
+157,Cash Drawer,Electronics,85014
+158,Receipt Printer,Electronics,56858
+159,Bar Code Scanner,Electronics,66697
+160,UPS,Electronics,76740
+161,Network Switch,Electronics,16822
+162,Phone Holder,Electronics,113553
+163,Ring Light,Electronics,7468
+164,Car Charger,Electronics,28018
+165,E-Reader,Electronics,52425
